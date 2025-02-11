@@ -1,0 +1,1 @@
+formate as : http://username:pass@ip:port
