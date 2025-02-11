@@ -1,1 +1,2 @@
 write your email and pass here formate as : email:pass
+Password must contain 1 Capital and Special keyword !! along with numbers
